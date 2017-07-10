@@ -1,5 +1,5 @@
 
-##Installation Instructions:
+## Installation Instructions:
 
 1. Copy script.js from this repo and paste into new Google sheet script editor (from the Tools menu, choose script editor)
 2. Find “API_KEY” in the code and replace with your Sistrix.com API key
