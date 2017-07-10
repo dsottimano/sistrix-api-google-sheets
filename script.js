@@ -174,8 +174,8 @@ Main functions START
 * @param {true} history OPTIONAL true for historical
 * @param {true} excludeHeaders OPTIONAL true to exclude the column headers. Default is false
 * @return Returns organic keywords count, organic traffic, organic cost, adwords data
+* @link https://www.sistrix.com/api/domain/#domainsichtbarkeitsindex domainsichtbarkeitsindex
 * @customfunction
-* {@link https://www.sistrix.com/api/domain/#domainsichtbarkeitsindex domainsichtbarkeitsindex}
 */
 
 

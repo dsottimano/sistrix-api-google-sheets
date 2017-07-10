@@ -37,7 +37,8 @@ Returns Sistrix visibility index
 
 **Kind**: global function  
 **Returns**: Returns organic keywords count, organic traffic, organic cost, adwords data  
-**Customfunction**: <code>@link https://www.sistrix.com/api/domain/#domainsichtbarkeitsindex domainsichtbarkeitsindex</code>  
+**Link**: https://www.sistrix.com/api/domain/#domainsichtbarkeitsindex domainsichtbarkeitsindex  
+**Customfunction**:   
 
 | Param | Type | Description |
 | --- | --- | --- |
