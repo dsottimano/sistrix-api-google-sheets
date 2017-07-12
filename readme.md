@@ -5,7 +5,7 @@
 2. Find “API_KEY” in the code and replace with your Sistrix.com API key
 3. Hit save, name your new script
 4. Go back to the spreadsheet, refresh the page
-5. In the top menu of the Spreadsheet, you’ll see “Semrush Functions”, click on it, choose “check api balance”
+5. In the top menu of the Spreadsheet, you’ll see “Sistrix Functions”, click on it, choose “check api balance”
 6. Authorize with your Google account
 7. All done! Go to the spreadsheet and start typing in any of the formulas listed here. 
 
